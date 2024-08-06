@@ -2,3 +2,6 @@
 
 Projetos:
 * Piscar um Led
+* Piscar dois Leds
+
+* Semáforo simples
